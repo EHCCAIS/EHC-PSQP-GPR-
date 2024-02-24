@@ -1,0 +1,14 @@
+1.RUN kenbeimodelForSave  保存训练的模型
+
+2.RUN kenBeiTest 
+
+3.INTUT testdata.xlsx TO TEACHING PENDANT
+
+4.RUN kenbeiBuChangXiaoGuo
+
+
+
+
+
+
+
